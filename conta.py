@@ -9,3 +9,5 @@ if cliente == 2:
 if cliente == 3:
     conta = qtd * 0.15
 print("Consumo é:", conta)
+
+
