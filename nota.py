@@ -1,4 +1,5 @@
-'''#Programa de treinamento if, elif, else
+'''
+#Programa de treinamento if, elif, else
 
 nota = float(input("Digite a nota:"))
 if nota >= 9:
@@ -11,14 +12,16 @@ else:
     print("Reprovado!")
 
 '''
-#Programa porcentagem
+
 '''
+#Programa porcentagem
 valor = float(input("Digite o valor:"))
 desconto = float(input("Digite o valor:"))
 preco = valor * (desconto / 100)
 print("O valor a ser pago é:", preco)
 
 '''
+
 #Programa de reajuste de sálario
 
 salatual = float(input("Digite o valor do salário:"))
